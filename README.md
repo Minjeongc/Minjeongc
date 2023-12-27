@@ -1,4 +1,6 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jomg2007)](https://solved.ac/jomg2007/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jomg2007)](https://solved.ac/jomg2007/) <br>
+<img src="http://mazandi.herokuapp.com/api?handle=jomg2007 &theme=warm"/>
+
 
 <!--
 **Minjeongc/Minjeongc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
